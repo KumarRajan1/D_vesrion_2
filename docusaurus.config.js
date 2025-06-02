@@ -10,7 +10,7 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
+
   url: 'https://your-docusaurus-test-site.com',
 
   baseUrl: '/',
